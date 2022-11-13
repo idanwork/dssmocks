@@ -1,0 +1,42 @@
+[
+    { 
+        "name": "Tres Generaciones Anejo 70oz", 
+        "type": "Tequila",
+        "price": 99.0, 
+        "quantity": { 
+            "available": 2500, 
+            "limitPerCustomer": 10
+        },
+		"images": [ "./summer-ge5091b17c_640.jpg" ]
+    },
+    { 
+        "name": "Curevo Silver 1lt", 
+        "type": "Tequila",
+        "price": 79.99, 
+        "quantity": { 
+            "available": 500, 
+            "limitPerCustomer": 2
+        },
+		"images": [ "./alcohol-g9b54cc668_1280.png" ]
+    },    
+    { 
+        "name": "Absolut 1lt", 
+        "type": "Vodka",
+        "price": 79.99, 
+        "quantity": { 
+            "available": 400, 
+            "limitPerCustomer": 6
+        },
+		"images": [ "./bacon-g23b8901a1_1280.jpg" ]
+    },    
+    { 
+        "name": "Van Gogh Acai 1t", 
+        "type": "Vodka",
+        "price": 134.99, 
+        "quantity": { 
+            "available": 5, 
+            "limitPerCustomer": 6
+        },
+		"images": [ "./martini-ge8502da6b_1280.jpg" ]
+    }
+]
